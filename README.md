@@ -1,2 +1,2 @@
 # MoreFair_ExtendedStats
-Watch me attempt to learn a language.
+Time to learn a programming language I suppose
